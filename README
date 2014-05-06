@@ -1,8 +1,8 @@
 sample input 
 
 Number of Rows 3 4
-the sum of each row in the matrix 2 3 2
-the sum of each column in the matrix 1 1 3 2
+the sum of each marked row in the matrix  2 3 2
+the sum of each marked column in the matrix 1 1 3 2
  
 3 4
 2 3 2
