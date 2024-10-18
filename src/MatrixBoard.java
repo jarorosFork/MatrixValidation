@@ -62,7 +62,7 @@ public class MatrixBoard {
         Arrays.sort(this.columns, new Comparator<Column>() {
             @Override
             public int compare(final Column o1, final Column o2) {
-                return o1.getCount() < o2.getCount() ? 1 : o1.getCount() >  o2.getCount() ? -1 : 0;  //To change body of implemented methods use File | Settings | File Templates.
+                return Integer.compare(o2.getCount(), o1.getCount());
             }
         });
 

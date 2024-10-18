@@ -7,3 +7,5 @@ the sum of each marked column in the matrix 1 1 3 2
 3 4
 2 3 2
 1 1 3 2
+
+This project uses Gradle for build automation and is configured to use Java 17.
